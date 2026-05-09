@@ -679,13 +679,14 @@ h5.module .fandoms .heading,
   background: transparent !important;
 }
 
-.own,
-dl.index dd {
-  color: #cac5d1;
-  background: #2a2933;
+.own {
+color; #cac5d1;
+background: #1e1d26 !important;
 }
 
 dl.index dd {
+  color: #cac5d1;
+  background: #2a2933;
   padding: 1em;
   border-radius: 10px;
   margin-top: 15px;

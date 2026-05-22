@@ -155,7 +155,7 @@ dl.stats dd.words::before { /*word count image*/
   background: url(https://i.imgur.com/BeEs9Uj.png);
 }
 
-dl.stats dd.chapters::before { /*chapter image/
+dl.stats dd.chapters::before { /*chapter image*/
   background: url(https://i.imgur.com/14TtfSu.png);
 }
 
